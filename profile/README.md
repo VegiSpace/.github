@@ -47,3 +47,6 @@
 ### BE
 ![django](https://img.shields.io/badge/django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![django](https://img.shields.io/badge/postegreSQL-4169E1?style=for-the-badge&logo=postegreSQL&logoColor=white)
+
+## 디자인 시스템
+[디자인 시스템 컴포넌트](https://silver-alfajores-251b2b.netlify.app/)
